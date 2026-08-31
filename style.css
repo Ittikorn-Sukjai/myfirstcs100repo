@@ -106,5 +106,14 @@ h2 {
 .download-btn:hover {
     background-color: #3f51b5;
 }
-
+.photo {
+text-align: center;
+}
+.photo img {
+width: 320px;
+}
+.info {
+width: 620px;
+margin: 40px auto 0 auto;
+}
 </style>
